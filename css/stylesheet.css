@@ -1,6 +1,6 @@
 .formpos{
    background-image: url(../img/casey-horner-4rDCa5hBlCs-unsplash.jpg); 
-   height: 600px; 
+   height: 700px; 
    width: 800px;
    margin: auto;
    opacity: 100%;
@@ -9,10 +9,13 @@
 body{
     background-color: black;
 }
+h1{
+    text-align: center;
+}
 .formcontent{
     width: 400px;
-    height: 600px;
-    background-color: white;
+    height: 700px;
+    background-image: linear-gradient(rgb(137, 236, 243),white);
     margin: auto;
     border-radius: 5%;
     box-shadow: rgb(76, 230, 222) 5px 5px;
@@ -32,16 +35,24 @@ body{
 
 .logo img{
     margin-top: 10px;
-    margin-left: 90px;
+    margin-left: 150px;
     border-radius: 50px;
-    width:200px;
-    height: 200px;
+    width:100px;
+    height:100px;
    
 
 }
 button{
-    background-color: green;
+    background-color: rgb(31, 73, 31);
     border-radius: 10px;
-    margin-left: 80px;
+    margin-left: 60px;
+    color: white;
 }
-
+#form{
+    align-items: center;
+    padding: 10px;
+    margin-left: 50px;
+}
+a{
+    color:rgb(2, 68, 2);
+}
