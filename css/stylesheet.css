@@ -1,6 +1,6 @@
 .formpos{
    background-image: url(../img/casey-horner-4rDCa5hBlCs-unsplash.jpg); 
-   height: 700px; 
+   height: 710px; 
    width: 800px;
    margin: auto;
    opacity: 100%;
@@ -18,7 +18,7 @@ h1{
     background-image: linear-gradient(rgb(137, 236, 243),white);
     margin: auto;
     border-radius: 5%;
-    box-shadow: rgb(76, 230, 222) 5px 5px;
+    box-shadow: rgb(2, 68, 2) 5px 5px;
 }
 .toptext{
     font-size: larger;
@@ -52,6 +52,8 @@ button{
     align-items: center;
     padding: 10px;
     margin-left: 50px;
+    font-weight: bold;
+    font-size: 16px;
 }
 a{
     color:rgb(2, 68, 2);
