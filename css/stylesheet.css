@@ -1,0 +1,47 @@
+.formpos{
+   background-image: url(../img/casey-horner-4rDCa5hBlCs-unsplash.jpg); 
+   height: 600px; 
+   width: 800px;
+   margin: auto;
+   opacity: 100%;
+   position: relative;
+}
+body{
+    background-color: black;
+}
+.formcontent{
+    width: 400px;
+    height: 600px;
+    background-color: white;
+    margin: auto;
+    border-radius: 5%;
+    box-shadow: rgb(76, 230, 222) 5px 5px;
+}
+.toptext{
+    font-size: larger;
+    margin-top: 80px;
+    margin-left: 30px;
+    
+}
+.large{
+    font-size: 30px;
+    text-align: center;
+    float: left;
+    font-family: fantasy;
+}
+
+.logo img{
+    margin-top: 10px;
+    margin-left: 90px;
+    border-radius: 50px;
+    width:200px;
+    height: 200px;
+   
+
+}
+button{
+    background-color: green;
+    border-radius: 10px;
+    margin-left: 80px;
+}
+
